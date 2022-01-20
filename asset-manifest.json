@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Electron/static/css/main.90e5e5b3.chunk.css",
-    "main.js": "/Electron/static/js/main.b6f86d01.chunk.js",
-    "main.js.map": "/Electron/static/js/main.b6f86d01.chunk.js.map",
-    "runtime-main.js": "/Electron/static/js/runtime-main.55fef331.js",
-    "runtime-main.js.map": "/Electron/static/js/runtime-main.55fef331.js.map",
-    "static/js/2.1dc2d541.chunk.js": "/Electron/static/js/2.1dc2d541.chunk.js",
-    "static/js/2.1dc2d541.chunk.js.map": "/Electron/static/js/2.1dc2d541.chunk.js.map",
-    "static/js/3.202687f3.chunk.js": "/Electron/static/js/3.202687f3.chunk.js",
-    "static/js/3.202687f3.chunk.js.map": "/Electron/static/js/3.202687f3.chunk.js.map",
-    "index.html": "/Electron/index.html",
-    "static/css/main.90e5e5b3.chunk.css.map": "/Electron/static/css/main.90e5e5b3.chunk.css.map",
-    "static/js/2.1dc2d541.chunk.js.LICENSE.txt": "/Electron/static/js/2.1dc2d541.chunk.js.LICENSE.txt",
-    "static/media/logo.7f799ddd.svg": "/Electron/static/media/logo.7f799ddd.svg",
-    "static/media/logoMobile.1e959ba8.svg": "/Electron/static/media/logoMobile.1e959ba8.svg"
+    "main.css": "/Electron89/static/css/main.90e5e5b3.chunk.css",
+    "main.js": "/Electron89/static/js/main.b6f86d01.chunk.js",
+    "main.js.map": "/Electron89/static/js/main.b6f86d01.chunk.js.map",
+    "runtime-main.js": "/Electron89/static/js/runtime-main.871bd486.js",
+    "runtime-main.js.map": "/Electron89/static/js/runtime-main.871bd486.js.map",
+    "static/js/2.1dc2d541.chunk.js": "/Electron89/static/js/2.1dc2d541.chunk.js",
+    "static/js/2.1dc2d541.chunk.js.map": "/Electron89/static/js/2.1dc2d541.chunk.js.map",
+    "static/js/3.202687f3.chunk.js": "/Electron89/static/js/3.202687f3.chunk.js",
+    "static/js/3.202687f3.chunk.js.map": "/Electron89/static/js/3.202687f3.chunk.js.map",
+    "index.html": "/Electron89/index.html",
+    "static/css/main.90e5e5b3.chunk.css.map": "/Electron89/static/css/main.90e5e5b3.chunk.css.map",
+    "static/js/2.1dc2d541.chunk.js.LICENSE.txt": "/Electron89/static/js/2.1dc2d541.chunk.js.LICENSE.txt",
+    "static/media/logo.7f799ddd.svg": "/Electron89/static/media/logo.7f799ddd.svg",
+    "static/media/logoMobile.1e959ba8.svg": "/Electron89/static/media/logoMobile.1e959ba8.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.55fef331.js",
+    "static/js/runtime-main.871bd486.js",
     "static/js/2.1dc2d541.chunk.js",
     "static/css/main.90e5e5b3.chunk.css",
     "static/js/main.b6f86d01.chunk.js"

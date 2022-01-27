@@ -40,11 +40,13 @@ const styles = makeStyles({
     flexGrow: 1,
     display:"flex",
     justifyContent:"end",
+    marginRight:100,
     "&:hover": {
       color: "#4f25c8"
     },
     ['@media (max-width:780px)']: {
-      paddingBottom: "1rem"
+      paddingBottom: "1rem",
+      marginRight:0,
     }
   },
   menuItem1: {
@@ -52,11 +54,14 @@ const styles = makeStyles({
     flexGrow: 0.005,
     display:"flex",
     justifyContent:"end",
+    marginRight:100,
     "&:hover": {
       color: "#4f25c8"
     },
     ['@media (max-width:780px)']: {
-      paddingBottom: "1rem"
+      paddingBottom: "1rem",
+      marginRight:0,
+      marginLeft:10,
     }
   }
 
@@ -76,11 +81,10 @@ function Footer() {
       <Typography variant="h6" className={classes.menuItem}>
         <span className={classes.alignmentoftext}> <MailIcon /></span><span>electron.academy2019@gmail.com</span>
       </Typography>
-      <Typography variant="h6" className={classes.menuItem} style={{ marginRight: 100 }}>
+      <Typography variant="h6" className={classes.menuItem} >
         <span  className={classes.alignmentoftext}><PhoneIcon/></span> 8688119362 (10A.M to 7P.M)
       </Typography>
-      <Typography variant="h6" className={classes.menuItem1} style={{ marginRight: 100 }} >
-
+      <Typography variant="h6" className={classes.menuItem1} >
         <BottomNavigation >
           <span  className={classes.alignmentoftext}> Follow us on:</span>
           <BottomNavigationAction  style={{marginBottom:11}}color="red" label="Facebook" value="recents" icon={<FacebookIcon style={{ fill: "#3b5998" }} />} />

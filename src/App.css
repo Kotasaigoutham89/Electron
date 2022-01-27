@@ -7,3 +7,11 @@
   margin:50px;
   width:400px;
 }
+@media only screen and (max-width: 426px) {
+  .Team_Member{
+    margin:15px;
+  }
+  .Team_Container{
+    flex-direction: column;
+  }
+}

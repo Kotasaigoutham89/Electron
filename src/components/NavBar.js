@@ -25,7 +25,9 @@ const styles = makeStyles({
         fontWeight:500,
         paddingLeft:10,
         ['@media (max-width:780px)']: { 
-            display: "inline-block"
+            display: "inline-block",
+            paddingLeft:0,
+            marginBottom:10,
             }
     },
     menuItem: {

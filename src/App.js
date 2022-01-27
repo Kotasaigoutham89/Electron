@@ -16,6 +16,8 @@ import TrendingUpIcon from '@material-ui/icons/TrendingUp';
 import ImportExportIcon from '@material-ui/icons/ImportExport';
 import ComputerIcon from '@material-ui/icons/Computer';
 import HttpIcon from '@material-ui/icons/Http';
+import Physics from "./Physics.jpeg"
+import Chemistry from "./Chemistry.jpeg"
 
 const theme = createMuiTheme({
   palette: {
@@ -83,8 +85,8 @@ function App() {
               <CardMedia
                 component="img"
                 height="300"
-                image="/images/Physics.jpeg"
-                alt="green iguana"
+                image={Physics}
+                alt="Physics"
               />
               <CardContent>
                 <Typography gutterBottom variant="h5" component="div">
@@ -105,8 +107,8 @@ function App() {
               <CardMedia
                 component="img"
                 height="300"
-                image="/images/Chemistry.jpeg"
-                alt="green iguana"
+                image={Chemistry}
+                alt="Chemistry"
               />
               <CardContent>
                 <Typography gutterBottom variant="h5" component="div">
